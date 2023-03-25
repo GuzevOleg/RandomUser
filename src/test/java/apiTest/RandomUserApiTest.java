@@ -32,7 +32,7 @@ public class RandomUserApiTest {
         MatcherAssert.assertThat(user.getResults().get(0).getNat(), equalTo("BR"));
     }
     @Test
-    public void generateCheckVersionInfoTest() {
+    public void сheckVersionInfoTest() {
         User user = RandomUserApi.sendUri("", "1.4")
                 .body()
                 .as(User.class);
