@@ -3,7 +3,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
 public  class RandomUserApi {
-    final static String USERS_URI = "/api";
+    final static String USERS_URI = "/api/";
     public static Response sendUri(String key, String params) {
         return  given()
                 .queryParam(key, params)

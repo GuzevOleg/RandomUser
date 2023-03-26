@@ -43,7 +43,7 @@
     "last_opened_file_path": "C:/Users/Oleg/Documents/GitHub/Randomuser"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.RandomUserApiTest.сheckVersionInfoTest">
+  <component name="RunManager" selected="JUnit.RandomUserApiTest">
     <configuration name="RandomUserApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Randomuser" />
       <extension name="coverage">
@@ -75,6 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomUserApiTest.generateUserGenderFemaleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Randomuser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
+      <option name="METHOD_NAME" value="generateUserGenderFemaleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomUserApiTest.generateUserPasswordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Randomuser" />
       <extension name="coverage">
@@ -86,22 +102,6 @@
       <option name="PACKAGE_NAME" value="core" />
       <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
       <option name="METHOD_NAME" value="generateUserPasswordTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomUserApiTest.generateUserWithoutParamsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Randomuser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apiTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="core" />
-      <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
-      <option name="METHOD_NAME" value="generateUserWithoutParamsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RandomUserApiTest" />
+        <item itemvalue="JUnit.RandomUserApiTest.generateUserGenderFemaleTest" />
         <item itemvalue="JUnit.RandomUserApiTest.сheckVersionInfoTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateThreeUserTest" />
-        <item itemvalue="JUnit.RandomUserApiTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateUserPasswordTest" />
-        <item itemvalue="JUnit.RandomUserApiTest.generateUserWithoutParamsTest" />
       </list>
     </recent_temporary>
   </component>
