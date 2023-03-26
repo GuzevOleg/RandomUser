@@ -9,15 +9,12 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Coordinates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Dob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Dob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Name.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Picture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Registered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Registered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Results.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Street.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Timezone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Timezone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Oleg/Documents/GitHub/Randomuser"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Oleg/Documents/GitHub/Randomuser&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.RandomUserApiTest">
     <configuration name="RandomUserApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Randomuser" />
@@ -136,9 +133,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RandomUserApiTest" />
+        <item itemvalue="JUnit.RandomUserApiTest.generateThreeUserTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateUserGenderFemaleTest" />
         <item itemvalue="JUnit.RandomUserApiTest.сheckVersionInfoTest" />
-        <item itemvalue="JUnit.RandomUserApiTest.generateThreeUserTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateUserPasswordTest" />
       </list>
     </recent_temporary>

@@ -8,4 +8,15 @@ public class Picture {
         private String medium;
         private String thumbnail;
 
+        public String getLarge() {
+                return large;
+        }
+
+        public String getMedium() {
+                return medium;
+        }
+
+        public String getThumbnail() {
+                return thumbnail;
+        }
 }
