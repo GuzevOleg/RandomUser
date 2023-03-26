@@ -18,4 +18,10 @@ public  class RandomUserApi {
                 .header("Content-type", "application/json")
                 .get(USERS_URI);
     }
+
+    public static Response sendUri(String version) {
+        return  given()
+                .header("Content-type", "application/json")
+                .get(USERS_URI + version );
+    }
 }

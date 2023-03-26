@@ -33,10 +33,10 @@ public class RandomUserApiTest {
     }
     @Test
     public void сheckVersionInfoTest() {
-        User user = RandomUserApi.sendUri("", "1.4")
+        User user = RandomUserApi.sendUri("/1.3")
                 .body()
                 .as(User.class);
-        MatcherAssert.assertThat(user.getInfo().getVersion(), equalTo("1.4"));
+        MatcherAssert.assertThat(user.getInfo().getVersion(), equalTo("1.3"));
     }
 
     @Test

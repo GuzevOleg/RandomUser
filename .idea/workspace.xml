@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011887fc-6ac4-454b-9927-faddfdb12519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Dob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Registered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Results.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Street.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Timezone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/RandomUserApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/RandomUserApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/RandomUserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RandomUserApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/RandomUserApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/RandomUserApiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +40,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Oleg/Documents/GitHub/Cleanuri"
+    "last_opened_file_path": "C:/Users/Oleg/Documents/GitHub/Randomuser"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.RandomUserApiTest.generateUserPasswordTest">
-    <configuration name="RandomUserApiTest.generateTwoUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RandomUserApiTest.сheckVersionInfoTest">
+    <configuration name="RandomUserApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Randomuser" />
       <extension name="coverage">
         <pattern>
@@ -70,15 +52,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="core" />
+      <option name="PACKAGE_NAME" value="apiTest" />
       <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
-      <option name="METHOD_NAME" value="generateTwoUserTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomUserApiTest.generateUserCityLondonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomUserApiTest.generateThreeUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Randomuser" />
       <extension name="coverage">
         <pattern>
@@ -86,25 +67,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="core" />
+      <option name="PACKAGE_NAME" value="apiTest" />
       <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
-      <option name="METHOD_NAME" value="generateUserCityLondonTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomUserApiTest.generateUserGenderFemailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Randomuser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apiTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="core" />
-      <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
-      <option name="METHOD_NAME" value="generateUserGenderFemailTest" />
+      <option name="METHOD_NAME" value="generateThreeUserTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,13 +107,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomUserApiTest.сheckVersionInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Randomuser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.RandomUserApiTest" />
+      <option name="METHOD_NAME" value="сheckVersionInfoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RandomUserApiTest.сheckVersionInfoTest" />
+        <item itemvalue="JUnit.RandomUserApiTest.generateThreeUserTest" />
+        <item itemvalue="JUnit.RandomUserApiTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateUserPasswordTest" />
         <item itemvalue="JUnit.RandomUserApiTest.generateUserWithoutParamsTest" />
-        <item itemvalue="JUnit.RandomUserApiTest.generateUserCityLondonTest" />
-        <item itemvalue="JUnit.RandomUserApiTest.generateUserGenderFemailTest" />
-        <item itemvalue="JUnit.RandomUserApiTest.generateTwoUserTest" />
       </list>
     </recent_temporary>
   </component>
