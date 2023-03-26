@@ -16,7 +16,7 @@ public class User {
         return info;
     }
 
-    public Info info;
+    private Info info;
 
 
 

@@ -6,8 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="011887fc-6ac4-454b-9927-faddfdb12519" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/RandomUserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RandomUserApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/RandomUserApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/RandomUserApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Dob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Dob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Registered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Registered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Results.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Timezone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/Timezone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pojo/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

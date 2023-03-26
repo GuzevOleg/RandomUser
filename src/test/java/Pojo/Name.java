@@ -18,7 +18,7 @@ public class Name {
         return last;
     }
 
-    public String title;
-    public String first;
-    public String last;
+    private String title;
+    private String first;
+    private String last;
 }

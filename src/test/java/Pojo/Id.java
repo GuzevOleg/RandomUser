@@ -1,6 +1,6 @@
 package Pojo;
 
 public class Id {
-    public String name;
-    public String value;
+    private String name;
+    private String value;
 }
